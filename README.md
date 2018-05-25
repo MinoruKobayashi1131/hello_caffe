@@ -1,2 +1,3 @@
-# hello_caffe
-Hello World for Caffe.
+hello_caffe
+
+It is Hello World for Caffe.
